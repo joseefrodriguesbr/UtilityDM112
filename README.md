@@ -31,9 +31,10 @@ Repositório : https://github.com/joseefrodriguesbr/LogisticaDM112
 <strong>UtilityDM112</strong> - Serviço de envio de e-mail alterado para contemplar envio de mensagem sem anexo<br/> 
 Repositório : https://github.com/joseefrodriguesbr/UtilityDM112
 
-## Projeto UtilityDM112 executando na porta 7071
+## Portas
 
-## Projeto LogisticaDM112 executando na porta 8081
+### * Projeto UtilityDM112 : 7071
+### * Projeto LogisticaDM112 : 8081
 
 ## Testes:
 ### Listar pedidos (requisição GET):<br/>
